@@ -1,0 +1,18 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+img{
+    width: 100vw;
+}
+
+a{
+    display: block;
+    color: white;
+    background-color: darkred;
+    padding: 20px;
+    text-decoration: none;
+    text-align: center;
+}
